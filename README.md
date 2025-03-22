@@ -5,7 +5,7 @@ The `StarRating` component is a customizable React component that allows users t
 ## Installation
 
 ```bash
-npm install star-rating-component
+npm install star-meter
 ```
 
 Make sure to include the CSS file for animations:
